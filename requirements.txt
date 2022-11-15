@@ -1,4 +1,7 @@
 streamlit
-streamlit-chat==0.0.2.1
-requests
+streamlit_chat
+transformers
 sentence_transformers
+--find-links https://download.pytorch.org/whl/torch_stable.html
+
+torch
